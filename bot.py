@@ -140,7 +140,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ⚠️ IMPORTANT: Replace this with your NEW token
-TOKEN = "YOUR_NEW_BOT_TOKEN"
+TOKEN = "8734169949:AAF4XcCYvjorqyJ9BrA4r9mV-RqqY6iR1RM"
 DATA_FILE = "data.json"
 
 # ---------- LOAD ----------
